@@ -3,5 +3,6 @@ Web Design 1
 # Irene Lu
 ## Fashion Design
 ### Year 4
-# <img src="27266021_10213955868042853_1731601333_o.jpg" alt="Irene">
+# <img src="27266021_10213955868042853_1731601333_o.jpg" alt="Irene"
+style="width:500px;height:600px;">
 
